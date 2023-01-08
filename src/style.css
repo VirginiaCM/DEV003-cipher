@@ -1,0 +1,26 @@
+header {
+    text-align: center;
+    margin-top: 18%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.mensajes {
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin-top: 5%;
+    height: 300px;
+    
+}
+
+body {
+    
+    background-color: bisque;
+    background-image: url("imagen css.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 20px;
+    
+   
+}
